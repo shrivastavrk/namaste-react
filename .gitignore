@@ -1,0 +1,6 @@
+/node_modules
+/dist
+/intution-building/dist
+/intution-building/node_modules
+/intution-building/.parcel-cache
+/.parcel-cache

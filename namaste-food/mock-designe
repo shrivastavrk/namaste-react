@@ -1,0 +1,28 @@
+
+{
+    "header": {
+        "title": "Welcome to Namaste Food",
+        "logo": "logo.png",
+        "navigation": ["Home", "Menu", "Contact"]
+    },
+    "body": {
+        "sections": [
+            {
+                "title": "Our Story",
+                "content": "Namaste Food brings you the best of Indian cuisine."
+            },
+            {
+                "title": "Menu",
+                "content": "Explore our diverse menu with a variety of dishes."
+            }
+        ]
+    },
+    "footer": {
+        "contactInfo": {
+            "address": "123 Food Street, Flavor Town",
+            "phone": "123-456-7890",
+            "email": "info@namastefood.com"
+        },
+        "socialMedia": ["Facebook", "Twitter", "Instagram"]
+    }
+}
